@@ -1,0 +1,25 @@
+﻿  InputComponent.cpp
+  Camera.cpp
+  CoreMinimalObject.cpp
+  Engine.cpp
+  DreamEngine.cpp
+  EngineFactory.cpp
+  BoxMesh.cpp
+  Mesh.cpp
+I:\MyFiles\VsProjects\DreamEngine\DemoEngine\DreamEngine\Engine\Mesh\Core\Mesh.cpp(216,43): warning C4244: “参数”: 从“float”转换到“uint32_t”，可能丢失数据
+I:\MyFiles\VsProjects\DreamEngine\DemoEngine\DreamEngine\Engine\Mesh\Core\Mesh.cpp(216,37): warning C4244: “参数”: 从“float”转换到“uint32_t”，可能丢失数据
+I:\MyFiles\VsProjects\DreamEngine\DemoEngine\DreamEngine\Engine\Mesh\Core\Mesh.cpp(216,31): warning C4244: “参数”: 从“float”转换到“uint32_t”，可能丢失数据
+I:\MyFiles\VsProjects\DreamEngine\DemoEngine\DreamEngine\Engine\Mesh\Core\Mesh.cpp(218,61): warning C4244: “参数”: 从“uint32_t”转换到“float”，可能丢失数据
+I:\MyFiles\VsProjects\DreamEngine\DemoEngine\DreamEngine\Engine\Mesh\Core\Mesh.cpp(218,50): warning C4244: “参数”: 从“uint32_t”转换到“float”，可能丢失数据
+I:\MyFiles\VsProjects\DreamEngine\DemoEngine\DreamEngine\Engine\Mesh\Core\Mesh.cpp(218,39): warning C4244: “参数”: 从“uint32_t”转换到“float”，可能丢失数据
+  WindowsEngine.cpp
+I:\MyFiles\VsProjects\DreamEngine\DemoEngine\DreamEngine\Engine\Platform\Windows\WindowsEngine.cpp(325,25): warning C4930: “ID3D12CommandAllocator Allocator(void)”: 未调用原型函数(是否是有意用变量定义的?)
+I:\MyFiles\VsProjects\DreamEngine\DemoEngine\DreamEngine\Engine\Platform\Windows\WindowsEngine.cpp(427,21): warning C4018: “<”: 有符号/无符号不匹配
+I:\MyFiles\VsProjects\DreamEngine\DemoEngine\DreamEngine\Engine\Platform\Windows\WindowsEngine.cpp(482,61): warning C4244: “=”: 从“int”转换到“FLOAT”，可能丢失数据
+I:\MyFiles\VsProjects\DreamEngine\DemoEngine\DreamEngine\Engine\Platform\Windows\WindowsEngine.cpp(483,62): warning C4244: “=”: 从“int”转换到“FLOAT”，可能丢失数据
+  WindowsMessageProcessing.cpp
+  Rendering.cpp
+I:\MyFiles\VsProjects\DreamEngine\DemoEngine\DreamEngine\Engine\Rendering\Core\Rendering.cpp(70,29): warning C4244: “=”: 从“UINT64”转换到“LONG_PTR”，可能丢失数据
+  正在生成代码...
+I:\MyFiles\VsProjects\DreamEngine\DemoEngine\DreamEngine\Engine\Platform\Windows\WindowsEngine.cpp(290): warning C4715: “CWindowsEngine::InitWindows”: 不是所有的控件路径都返回值
+  DreamEngine.vcxproj -> I:\MyFiles\VsProjects\DreamEngine\DemoEngine\Debug\DreamEngine.exe
